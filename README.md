@@ -8,7 +8,7 @@ regions all in all). There is no guarantee that it will do anything useful for
 other models – it has only been tested with the one.
 
 The tool is inspired by and loosely based on:
-https://github.com/bparker06/msi-keyboard
+https://github.com/bparker06/msi-keyboard and
 https://github.com/stevelacy/msi-keyboard
 
 ## How to Build ##
