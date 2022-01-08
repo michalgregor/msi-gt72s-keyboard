@@ -1,5 +1,6 @@
 #include "Keyboard.h"
 #include <string>
+#include <stdexcept>
 
 std::map<std::string, char> RegionNames = {
 	{"left", 1},
@@ -110,4 +111,3 @@ Keyboard::Keyboard() {
 Keyboard::~Keyboard() {
 	hid_close(_dev);
 }
-
